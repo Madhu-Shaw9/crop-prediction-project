@@ -66,14 +66,6 @@ This project aims to predict the most suitable crop to grow based on environment
 
 ---
 
-## 📷 Screenshots (Optional)
-
-- Accuracy & training time charts  
-- Confusion matrix heatmaps  
-- Final crop prediction example
-
----
-
 ## 🙋‍♀️ Author
 
 **Madhu Shaw**  
